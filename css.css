@@ -1,6 +1,7 @@
 
 
 .s{
+  background-repeat: no-repeat;
   background-image: url("trip.gif");
   background-color: black;
   background-size: cover;
