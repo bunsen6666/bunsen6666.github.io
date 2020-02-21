@@ -1,7 +1,8 @@
 
 
 .s{
-  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
   background-image: url("gl.gif");
   background-color: black;
   background-size: cover;
