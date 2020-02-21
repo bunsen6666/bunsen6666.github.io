@@ -3,6 +3,7 @@
 .s{
   background-image: url("trip.gif");
   background-color: black;
+  background-size: cover;
   color: white;
 }
 
