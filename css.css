@@ -1,6 +1,7 @@
 
 
 .s{
+  background-attachment: fixed;
   background-image: url("trip.gif");
   background-size: cover;
   background-repeat: no-repeat;
