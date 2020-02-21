@@ -1,0 +1,42 @@
+
+
+.s{
+  background-image: url("trip.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+  color: white;
+}
+
+.g{
+  display: block;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+}
+
+.c{
+  color: aqua;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.b{
+  position: absolute;
+  text-align: center;
+  bottom: 10px;
+  width: 100%;
+}
+
+.p{
+  color: aqua;
+}
+
+.h{
+  color: #9c2400;
+}
+
+.x{
+  color: orange;
+}
