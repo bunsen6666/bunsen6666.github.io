@@ -11,6 +11,9 @@
 }
 
 .s{
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
   background-attachment: fixed;
   background-position: center center;
   background-image: url("gl.gif");
